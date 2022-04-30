@@ -1,0 +1,12 @@
+C:\Users\OrioN\source\repos\ProductManagement\Integrations\bin\Debug\net6.0\Integrations.deps.json
+C:\Users\OrioN\source\repos\ProductManagement\Integrations\bin\Debug\net6.0\Integrations.dll
+C:\Users\OrioN\source\repos\ProductManagement\Integrations\bin\Debug\net6.0\Integrations.pdb
+C:\Users\OrioN\source\repos\ProductManagement\Integrations\obj\Debug\net6.0\Integrations.csproj.AssemblyReference.cache
+C:\Users\OrioN\source\repos\ProductManagement\Integrations\obj\Debug\net6.0\Integrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OrioN\source\repos\ProductManagement\Integrations\obj\Debug\net6.0\Integrations.AssemblyInfoInputs.cache
+C:\Users\OrioN\source\repos\ProductManagement\Integrations\obj\Debug\net6.0\Integrations.AssemblyInfo.cs
+C:\Users\OrioN\source\repos\ProductManagement\Integrations\obj\Debug\net6.0\Integrations.csproj.CoreCompileInputs.cache
+C:\Users\OrioN\source\repos\ProductManagement\Integrations\obj\Debug\net6.0\Integrations.dll
+C:\Users\OrioN\source\repos\ProductManagement\Integrations\obj\Debug\net6.0\refint\Integrations.dll
+C:\Users\OrioN\source\repos\ProductManagement\Integrations\obj\Debug\net6.0\Integrations.pdb
+C:\Users\OrioN\source\repos\ProductManagement\Integrations\obj\Debug\net6.0\ref\Integrations.dll
